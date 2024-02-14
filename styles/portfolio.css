@@ -191,7 +191,7 @@ main section{
 
 footer{
     display: flex;
-    border-color: #fff8f3;
+    background-color: #FFF8F3;
     margin-top: 100px;
     padding: 130px 200px;
 }
